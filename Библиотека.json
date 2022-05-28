@@ -1,0 +1,1702 @@
+[
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\"Груффало\"",
+            "year": 1673,
+            "pages": 887,
+            "isbn": "978-1-68873-380-0",
+            "rating": 4.39,
+            "price": 444.71,
+            "author": [
+                "Danielle Chandler",
+                "Larry Trevino",
+                "Debra Blair"
+            ]
+        }
+    }
+]

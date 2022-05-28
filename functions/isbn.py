@@ -9,6 +9,7 @@ fake = Faker()
 # print(isbn_lib())
 
 def isbn_lib():
+    """The international isbn code generator"""
     return fake.isbn13(separator="-")
 
 

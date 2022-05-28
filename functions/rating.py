@@ -2,6 +2,7 @@ import random
 
 
 def rating():
+    """Rating generator"""
     return round(random.random()*5, 2)
 
 
