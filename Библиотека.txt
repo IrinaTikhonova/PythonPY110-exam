@@ -1,0 +1,1500 @@
+{
+    "model": "shop_final.book",
+    "pk": 1,
+    "fields": {
+        "title": "\"\u0412\u043b\u0430\u0441\u0442\u0435\u043b\u0438\u043d \u043a\u043e\u043b\u0435\u0446\"",
+        "year": 1688,
+        "pages": 85,
+        "isbn": "978-1-291-87894-3",
+        "rating": 1.53,
+        "price": 765.3,
+        "author": [
+            "Mr. Joseph Morris",
+            "Mary Wilson MD",
+            "Anthony Browning"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 2,
+    "fields": {
+        "title": "\"\u0413\u0440\u0443\u0444\u0444\u0430\u043b\u043e\"",
+        "year": 1738,
+        "pages": 147,
+        "isbn": "978-1-4038-2301-4",
+        "rating": 4.76,
+        "price": 464.17,
+        "author": [
+            "Kelly Johnson"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 3,
+    "fields": {
+        "title": "\"\u0414\u0438\u0432\u043d\u044b\u0439 \u043d\u043e\u0432\u044b\u0439 \u043c\u0438\u0440\"",
+        "year": 1768,
+        "pages": 542,
+        "isbn": "978-0-571-38923-0",
+        "rating": 1.82,
+        "price": 327.47,
+        "author": [
+            "Taylor Ortiz"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 4,
+    "fields": {
+        "title": "\"\u0418\u0435\u0440\u043e \u043d\u0435 \u0434\u0430\u044e\u0442 \u043f\u043e\u043a\u043e\u044f\"",
+        "year": 1654,
+        "pages": 437,
+        "isbn": "978-1-62479-498-8",
+        "rating": 4.96,
+        "price": 343.58,
+        "author": [
+            "Corey Oconnor",
+            "Thomas Neal",
+            "Sherry Garcia"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 5,
+    "fields": {
+        "title": "\"\u0413\u0440\u0443\u0444\u0444\u0430\u043b\u043e\"",
+        "year": 1704,
+        "pages": 31,
+        "isbn": "978-1-01-874184-0",
+        "rating": 0.03,
+        "price": 863.51,
+        "author": [
+            "Stacey Evans",
+            "Jeffrey Nunez"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 6,
+    "fields": {
+        "title": "\"\u0414\u044e\u043d\u0430\"",
+        "year": 1950,
+        "pages": 693,
+        "isbn": "978-1-56000-012-9",
+        "rating": 0.91,
+        "price": 421.12,
+        "author": [
+            "Joshua Velez"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 7,
+    "fields": {
+        "title": "\"\u0418\u0435\u0440\u043e \u043d\u0435 \u0434\u0430\u044e\u0442 \u043f\u043e\u043a\u043e\u044f\"",
+        "year": 1994,
+        "pages": 868,
+        "isbn": "978-1-309-13140-4",
+        "rating": 3.71,
+        "price": 898.32,
+        "author": [
+            "Christopher Krueger"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 8,
+    "fields": {
+        "title": "\"\u0414\u0438\u0432\u043d\u044b\u0439 \u043d\u043e\u0432\u044b\u0439 \u043c\u0438\u0440\"",
+        "year": 1698,
+        "pages": 254,
+        "isbn": "978-1-70229-907-7",
+        "rating": 2.19,
+        "price": 720.22,
+        "author": [
+            "Jasmine Sullivan",
+            "Michael Walter",
+            "Karen Thomas"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 9,
+    "fields": {
+        "title": "\"\u0414\u044e\u043d\u0430\"",
+        "year": 1937,
+        "pages": 200,
+        "isbn": "978-0-443-24524-4",
+        "rating": 0.65,
+        "price": 562.36,
+        "author": [
+            "Jeffrey Burns"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 10,
+    "fields": {
+        "title": "\"\u041d\u0430\u0434 \u043f\u0440\u043e\u043f\u0430\u0441\u0442\u044c\u044e \u0432\u043e \u0440\u0436\u0438\"",
+        "year": 1950,
+        "pages": 411,
+        "isbn": "978-1-67283-101-7",
+        "rating": 3.73,
+        "price": 753.07,
+        "author": [
+            "Lori Anderson"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 11,
+    "fields": {
+        "title": "\"\u0414\u0438\u0432\u043d\u044b\u0439 \u043d\u043e\u0432\u044b\u0439 \u043c\u0438\u0440\"",
+        "year": 1814,
+        "pages": 576,
+        "isbn": "978-1-166-82081-7",
+        "rating": 0.49,
+        "price": 687.9,
+        "author": [
+            "Tyler Jacobs"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 12,
+    "fields": {
+        "title": "\"\u0425\u0438\u0440\u0443\u0440\u0433\"",
+        "year": 1921,
+        "pages": 228,
+        "isbn": "978-0-933399-85-3",
+        "rating": 0.66,
+        "price": 429.32,
+        "author": [
+            "Lisa Stuart"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 13,
+    "fields": {
+        "title": "\"\u0414\u0438\u0432\u043d\u044b\u0439 \u043d\u043e\u0432\u044b\u0439 \u043c\u0438\u0440\"",
+        "year": 1762,
+        "pages": 523,
+        "isbn": "978-0-502-47588-9",
+        "rating": 3.27,
+        "price": 950.05,
+        "author": [
+            "Scott Ramirez",
+            "Katie Kramer"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 14,
+    "fields": {
+        "title": "\"\u0414\u0438\u0432\u043d\u044b\u0439 \u043d\u043e\u0432\u044b\u0439 \u043c\u0438\u0440\"",
+        "year": 1832,
+        "pages": 13,
+        "isbn": "978-1-07-182619-5",
+        "rating": 1.91,
+        "price": 529.96,
+        "author": [
+            "Christina Hayes"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 15,
+    "fields": {
+        "title": "\"\u041d\u0430\u0434 \u043f\u0440\u043e\u043f\u0430\u0441\u0442\u044c\u044e \u0432\u043e \u0440\u0436\u0438\"",
+        "year": 1883,
+        "pages": 218,
+        "isbn": "978-1-274-36819-5",
+        "rating": 4.57,
+        "price": 643.5,
+        "author": [
+            "Jaime Ritter",
+            "Matthew Smith",
+            "Barbara Walters"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 16,
+    "fields": {
+        "title": "\"\u0426\u0432\u0435\u0442\u044b \u0434\u043b\u044f \u042d\u043b\u0434\u0436\u0435\u0440\u043d\u043e\u043d\u0430\"",
+        "year": 1676,
+        "pages": 536,
+        "isbn": "978-0-85093-365-9",
+        "rating": 3.65,
+        "price": 289.0,
+        "author": [
+            "Deanna Ferguson",
+            "Mark Russo"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 17,
+    "fields": {
+        "title": "\"\u0425\u0438\u043c\u0435\u0440\u0430\"",
+        "year": 1938,
+        "pages": 166,
+        "isbn": "978-1-56638-744-6",
+        "rating": 1.31,
+        "price": 687.32,
+        "author": [
+            "Cheryl Armstrong"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 18,
+    "fields": {
+        "title": "\"\u0426\u0432\u0435\u0442\u044b \u0434\u043b\u044f \u042d\u043b\u0434\u0436\u0435\u0440\u043d\u043e\u043d\u0430\"",
+        "year": 1990,
+        "pages": 78,
+        "isbn": "978-1-943939-71-8",
+        "rating": 1.27,
+        "price": 936.82,
+        "author": [
+            "William Griffin",
+            "Sue Powell"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 19,
+    "fields": {
+        "title": "\"\u0425\u0438\u0440\u0443\u0440\u0433\"",
+        "year": 1699,
+        "pages": 312,
+        "isbn": "978-0-262-31294-3",
+        "rating": 1.49,
+        "price": 896.02,
+        "author": [
+            "Michelle Cruz",
+            "Mr. Robert Lynch",
+            "Carrie Adams"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 20,
+    "fields": {
+        "title": "\"\u0414\u044e\u043d\u0430\"",
+        "year": 1701,
+        "pages": 126,
+        "isbn": "978-1-871257-80-9",
+        "rating": 1.48,
+        "price": 961.47,
+        "author": [
+            "Mr. Joel Daniel",
+            "Sara Carter"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 21,
+    "fields": {
+        "title": "\"\u0425\u0438\u043c\u0435\u0440\u0430\"",
+        "year": 1874,
+        "pages": 112,
+        "isbn": "978-0-85887-963-8",
+        "rating": 2.94,
+        "price": 701.82,
+        "author": [
+            "Mr. Jason Kelley",
+            "Matthew Allen"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 22,
+    "fields": {
+        "title": "\"\u041d\u0430\u0434 \u043f\u0440\u043e\u043f\u0430\u0441\u0442\u044c\u044e \u0432\u043e \u0440\u0436\u0438\"",
+        "year": 1927,
+        "pages": 397,
+        "isbn": "978-0-542-02076-6",
+        "rating": 2.16,
+        "price": 586.9,
+        "author": [
+            "Ronald Cole"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 23,
+    "fields": {
+        "title": "\"\u041d\u0430\u0434 \u043f\u0440\u043e\u043f\u0430\u0441\u0442\u044c\u044e \u0432\u043e \u0440\u0436\u0438\"",
+        "year": 1795,
+        "pages": 542,
+        "isbn": "978-0-02-980864-1",
+        "rating": 0.7,
+        "price": 122.58,
+        "author": [
+            "Jeffrey Johnson"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 24,
+    "fields": {
+        "title": "\"\u0418\u0435\u0440\u043e \u043d\u0435 \u0434\u0430\u044e\u0442 \u043f\u043e\u043a\u043e\u044f\"",
+        "year": 1897,
+        "pages": 418,
+        "isbn": "978-1-105-28802-9",
+        "rating": 4.93,
+        "price": 724.66,
+        "author": [
+            "Patrick Cox"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 25,
+    "fields": {
+        "title": "\"\u0428\u0442\u0430\u043c\u043c \"\u0410\u043d\u0434\u0440\u043e\u043c\u0435\u0434\u0430\"\"",
+        "year": 1966,
+        "pages": 172,
+        "isbn": "978-1-4245-5529-1",
+        "rating": 3.98,
+        "price": 924.32,
+        "author": [
+            "Nicholas Crawford",
+            "Autumn Harrison"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 26,
+    "fields": {
+        "title": "\"\u0425\u0438\u0440\u0443\u0440\u0433\"",
+        "year": 1946,
+        "pages": 396,
+        "isbn": "978-0-322-07275-6",
+        "rating": 4.27,
+        "price": 153.91,
+        "author": [
+            "Joel Michael"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 27,
+    "fields": {
+        "title": "\"\u0418\u0435\u0440\u043e \u043d\u0435 \u0434\u0430\u044e\u0442 \u043f\u043e\u043a\u043e\u044f\"",
+        "year": 1943,
+        "pages": 129,
+        "isbn": "978-1-271-59291-3",
+        "rating": 4.13,
+        "price": 726.88,
+        "author": [
+            "Antonio Hardin",
+            "Christopher Young",
+            "Jeremy Ward"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 28,
+    "fields": {
+        "title": "\"\u0413\u0440\u0443\u0444\u0444\u0430\u043b\u043e\"",
+        "year": 1987,
+        "pages": 144,
+        "isbn": "978-1-340-71262-4",
+        "rating": 4.58,
+        "price": 497.43,
+        "author": [
+            "Michele Orozco",
+            "Kimberly Fry",
+            "Stanley Morgan"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 29,
+    "fields": {
+        "title": "\"\u0418\u0435\u0440\u043e \u043d\u0435 \u0434\u0430\u044e\u0442 \u043f\u043e\u043a\u043e\u044f\"",
+        "year": 1657,
+        "pages": 898,
+        "isbn": "978-0-596-01527-5",
+        "rating": 1.4,
+        "price": 490.41,
+        "author": [
+            "Anna Doyle",
+            "Jessica Johnson",
+            "Chelsea Kline"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 30,
+    "fields": {
+        "title": "\"\u0426\u0432\u0435\u0442\u044b \u0434\u043b\u044f \u042d\u043b\u0434\u0436\u0435\u0440\u043d\u043e\u043d\u0430\"",
+        "year": 1746,
+        "pages": 293,
+        "isbn": "978-1-4099-9649-1",
+        "rating": 0.15,
+        "price": 859.23,
+        "author": [
+            "Vanessa Bryan",
+            "Michael Jackson",
+            "Mrs. Lisa Foster"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 31,
+    "fields": {
+        "title": "\"\u0418\u0435\u0440\u043e \u043d\u0435 \u0434\u0430\u044e\u0442 \u043f\u043e\u043a\u043e\u044f\"",
+        "year": 1601,
+        "pages": 417,
+        "isbn": "978-0-573-19686-7",
+        "rating": 4.96,
+        "price": 614.96,
+        "author": [
+            "Samuel Harvey",
+            "Matthew Rivers",
+            "Christopher Smith"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 32,
+    "fields": {
+        "title": "\"\u041d\u0430\u0434 \u043f\u0440\u043e\u043f\u0430\u0441\u0442\u044c\u044e \u0432\u043e \u0440\u0436\u0438\"",
+        "year": 1892,
+        "pages": 998,
+        "isbn": "978-0-01-669287-1",
+        "rating": 2.5,
+        "price": 245.5,
+        "author": [
+            "Jennifer Bush",
+            "Gabrielle Wise",
+            "Erin Jackson"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 33,
+    "fields": {
+        "title": "\"\u0413\u0440\u0443\u0444\u0444\u0430\u043b\u043e\"",
+        "year": 1953,
+        "pages": 937,
+        "isbn": "978-0-10-223227-1",
+        "rating": 1.43,
+        "price": 503.85,
+        "author": [
+            "Matthew Ramirez"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 34,
+    "fields": {
+        "title": "\"\u0418\u0435\u0440\u043e \u043d\u0435 \u0434\u0430\u044e\u0442 \u043f\u043e\u043a\u043e\u044f\"",
+        "year": 1771,
+        "pages": 918,
+        "isbn": "978-0-480-95809-1",
+        "rating": 1.7,
+        "price": 494.57,
+        "author": [
+            "Shannon Ortiz",
+            "Megan Walker",
+            "Sergio Pitts"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 35,
+    "fields": {
+        "title": "\"\u0425\u0438\u0440\u0443\u0440\u0433\"",
+        "year": 1842,
+        "pages": 878,
+        "isbn": "978-1-79029-587-6",
+        "rating": 2.29,
+        "price": 207.76,
+        "author": [
+            "Steven Zimmerman"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 36,
+    "fields": {
+        "title": "\"\u0414\u0438\u0432\u043d\u044b\u0439 \u043d\u043e\u0432\u044b\u0439 \u043c\u0438\u0440\"",
+        "year": 1748,
+        "pages": 852,
+        "isbn": "978-1-84833-745-9",
+        "rating": 1.71,
+        "price": 463.92,
+        "author": [
+            "Alicia Wallace"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 37,
+    "fields": {
+        "title": "\"\u0425\u0438\u043c\u0435\u0440\u0430\"",
+        "year": 1669,
+        "pages": 477,
+        "isbn": "978-1-5490-3450-3",
+        "rating": 2.49,
+        "price": 680.37,
+        "author": [
+            "Jack Coleman",
+            "Henry Gibson"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 38,
+    "fields": {
+        "title": "\"\u041d\u0430\u0434 \u043f\u0440\u043e\u043f\u0430\u0441\u0442\u044c\u044e \u0432\u043e \u0440\u0436\u0438\"",
+        "year": 1781,
+        "pages": 744,
+        "isbn": "978-1-191-59703-6",
+        "rating": 4.72,
+        "price": 646.34,
+        "author": [
+            "Alyssa Hughes",
+            "Christopher Fuentes"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 39,
+    "fields": {
+        "title": "\"\u0418\u0435\u0440\u043e \u043d\u0435 \u0434\u0430\u044e\u0442 \u043f\u043e\u043a\u043e\u044f\"",
+        "year": 1606,
+        "pages": 756,
+        "isbn": "978-0-85868-678-6",
+        "rating": 0.86,
+        "price": 112.53,
+        "author": [
+            "Mark Murphy",
+            "Mr. Brett Ingram",
+            "Shelley Mitchell"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 40,
+    "fields": {
+        "title": "\"\u0414\u0438\u0432\u043d\u044b\u0439 \u043d\u043e\u0432\u044b\u0439 \u043c\u0438\u0440\"",
+        "year": 1743,
+        "pages": 101,
+        "isbn": "978-0-480-85124-8",
+        "rating": 4.63,
+        "price": 635.96,
+        "author": [
+            "Terry Harrison",
+            "George Wright"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 41,
+    "fields": {
+        "title": "\"\u0428\u0442\u0430\u043c\u043c \"\u0410\u043d\u0434\u0440\u043e\u043c\u0435\u0434\u0430\"\"",
+        "year": 1665,
+        "pages": 573,
+        "isbn": "978-0-657-45457-9",
+        "rating": 2.36,
+        "price": 127.92,
+        "author": [
+            "Carol Trevino",
+            "Edward Rose"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 42,
+    "fields": {
+        "title": "\"\u0426\u0432\u0435\u0442\u044b \u0434\u043b\u044f \u042d\u043b\u0434\u0436\u0435\u0440\u043d\u043e\u043d\u0430\"",
+        "year": 1760,
+        "pages": 806,
+        "isbn": "978-0-18-697773-0",
+        "rating": 3.05,
+        "price": 371.41,
+        "author": [
+            "Charles Downs",
+            "Juan Good"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 43,
+    "fields": {
+        "title": "\"\u0412\u043b\u0430\u0441\u0442\u0435\u043b\u0438\u043d \u043a\u043e\u043b\u0435\u0446\"",
+        "year": 1918,
+        "pages": 918,
+        "isbn": "978-0-942083-27-9",
+        "rating": 4.47,
+        "price": 954.73,
+        "author": [
+            "Tiffany Harris"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 44,
+    "fields": {
+        "title": "\"\u041d\u0430\u0434 \u043f\u0440\u043e\u043f\u0430\u0441\u0442\u044c\u044e \u0432\u043e \u0440\u0436\u0438\"",
+        "year": 1972,
+        "pages": 742,
+        "isbn": "978-0-232-00271-3",
+        "rating": 3.74,
+        "price": 903.42,
+        "author": [
+            "Dana White",
+            "Lisa King",
+            "Ariel Horton"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 45,
+    "fields": {
+        "title": "\"\u0418\u0435\u0440\u043e \u043d\u0435 \u0434\u0430\u044e\u0442 \u043f\u043e\u043a\u043e\u044f\"",
+        "year": 1777,
+        "pages": 577,
+        "isbn": "978-1-955943-00-0",
+        "rating": 1.77,
+        "price": 460.99,
+        "author": [
+            "Melissa Schroeder",
+            "Tamara Thomas",
+            "Sandra Brown"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 46,
+    "fields": {
+        "title": "\"\u0412\u043b\u0430\u0441\u0442\u0435\u043b\u0438\u043d \u043a\u043e\u043b\u0435\u0446\"",
+        "year": 1968,
+        "pages": 151,
+        "isbn": "978-0-267-98613-2",
+        "rating": 3.1,
+        "price": 134.53,
+        "author": [
+            "Lindsay May"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 47,
+    "fields": {
+        "title": "\"\u0418\u0435\u0440\u043e \u043d\u0435 \u0434\u0430\u044e\u0442 \u043f\u043e\u043a\u043e\u044f\"",
+        "year": 1743,
+        "pages": 81,
+        "isbn": "978-0-8331-2521-7",
+        "rating": 3.98,
+        "price": 466.99,
+        "author": [
+            "Kevin Barber",
+            "Thomas Santana",
+            "Matthew Hayes"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 48,
+    "fields": {
+        "title": "\"\u0425\u0438\u043c\u0435\u0440\u0430\"",
+        "year": 1622,
+        "pages": 605,
+        "isbn": "978-1-83223-103-9",
+        "rating": 3.81,
+        "price": 758.74,
+        "author": [
+            "Jamie Fry",
+            "Morgan Huffman",
+            "Tasha Robertson"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 49,
+    "fields": {
+        "title": "\"\u0413\u0440\u0443\u0444\u0444\u0430\u043b\u043e\"",
+        "year": 1617,
+        "pages": 724,
+        "isbn": "978-0-375-58254-7",
+        "rating": 3.6,
+        "price": 812.89,
+        "author": [
+            "Rebecca Garcia",
+            "Emily Harris"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 50,
+    "fields": {
+        "title": "\"\u041d\u0430\u0434 \u043f\u0440\u043e\u043f\u0430\u0441\u0442\u044c\u044e \u0432\u043e \u0440\u0436\u0438\"",
+        "year": 1897,
+        "pages": 277,
+        "isbn": "978-1-06-653256-8",
+        "rating": 1.82,
+        "price": 729.67,
+        "author": [
+            "Justin Campbell"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 51,
+    "fields": {
+        "title": "\"\u0414\u0438\u0432\u043d\u044b\u0439 \u043d\u043e\u0432\u044b\u0439 \u043c\u0438\u0440\"",
+        "year": 1819,
+        "pages": 649,
+        "isbn": "978-0-453-69469-8",
+        "rating": 0.15,
+        "price": 327.1,
+        "author": [
+            "Michael Howard",
+            "Erica Rodriguez",
+            "Kathleen Palmer"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 52,
+    "fields": {
+        "title": "\"\u0414\u044e\u043d\u0430\"",
+        "year": 1641,
+        "pages": 936,
+        "isbn": "978-0-14-625083-5",
+        "rating": 3.26,
+        "price": 119.87,
+        "author": [
+            "Jessica Nguyen MD",
+            "Faith Clark"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 53,
+    "fields": {
+        "title": "\"\u0412\u043b\u0430\u0441\u0442\u0435\u043b\u0438\u043d \u043a\u043e\u043b\u0435\u0446\"",
+        "year": 1760,
+        "pages": 529,
+        "isbn": "978-1-313-31820-4",
+        "rating": 0.76,
+        "price": 939.42,
+        "author": [
+            "Sarah Higgins"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 54,
+    "fields": {
+        "title": "\"\u0414\u044e\u043d\u0430\"",
+        "year": 1830,
+        "pages": 673,
+        "isbn": "978-1-4892-8141-8",
+        "rating": 1.73,
+        "price": 945.49,
+        "author": [
+            "Benjamin Jimenez",
+            "Amanda Carter"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 55,
+    "fields": {
+        "title": "\"\u0418\u0435\u0440\u043e \u043d\u0435 \u0434\u0430\u044e\u0442 \u043f\u043e\u043a\u043e\u044f\"",
+        "year": 1964,
+        "pages": 637,
+        "isbn": "978-0-588-12411-4",
+        "rating": 1.5,
+        "price": 519.32,
+        "author": [
+            "Luis Evans",
+            "Tracy Weaver"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 56,
+    "fields": {
+        "title": "\"\u0418\u0435\u0440\u043e \u043d\u0435 \u0434\u0430\u044e\u0442 \u043f\u043e\u043a\u043e\u044f\"",
+        "year": 1610,
+        "pages": 751,
+        "isbn": "978-0-650-86068-1",
+        "rating": 1.6,
+        "price": 811.28,
+        "author": [
+            "Kenneth Alvarez",
+            "Audrey Anderson"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 57,
+    "fields": {
+        "title": "\"\u0425\u0438\u0440\u0443\u0440\u0433\"",
+        "year": 1650,
+        "pages": 488,
+        "isbn": "978-1-944796-86-0",
+        "rating": 4.19,
+        "price": 624.4,
+        "author": [
+            "David Hawkins",
+            "Dean Curry",
+            "Kevin Thompson"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 58,
+    "fields": {
+        "title": "\"\u0413\u0440\u0443\u0444\u0444\u0430\u043b\u043e\"",
+        "year": 1680,
+        "pages": 739,
+        "isbn": "978-1-388-36657-5",
+        "rating": 2.95,
+        "price": 940.42,
+        "author": [
+            "Patrick Davis",
+            "Brooke Rogers",
+            "Ian Young"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 59,
+    "fields": {
+        "title": "\"\u0414\u044e\u043d\u0430\"",
+        "year": 1890,
+        "pages": 350,
+        "isbn": "978-0-453-55612-5",
+        "rating": 4.69,
+        "price": 519.94,
+        "author": [
+            "Steven Kaiser"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 60,
+    "fields": {
+        "title": "\"\u0426\u0432\u0435\u0442\u044b \u0434\u043b\u044f \u042d\u043b\u0434\u0436\u0435\u0440\u043d\u043e\u043d\u0430\"",
+        "year": 1708,
+        "pages": 338,
+        "isbn": "978-1-307-38187-0",
+        "rating": 1.26,
+        "price": 901.72,
+        "author": [
+            "Christopher Daniel",
+            "Sean Leonard"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 61,
+    "fields": {
+        "title": "\"\u0426\u0432\u0435\u0442\u044b \u0434\u043b\u044f \u042d\u043b\u0434\u0436\u0435\u0440\u043d\u043e\u043d\u0430\"",
+        "year": 1928,
+        "pages": 996,
+        "isbn": "978-0-699-65720-4",
+        "rating": 1.18,
+        "price": 719.89,
+        "author": [
+            "Mrs. Nicole Hopkins DDS",
+            "Bianca Garcia"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 62,
+    "fields": {
+        "title": "\"\u0425\u0438\u0440\u0443\u0440\u0433\"",
+        "year": 1716,
+        "pages": 470,
+        "isbn": "978-0-670-82182-2",
+        "rating": 1.46,
+        "price": 698.48,
+        "author": [
+            "Jason Hamilton",
+            "Elizabeth Kelley MD"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 63,
+    "fields": {
+        "title": "\"\u0414\u044e\u043d\u0430\"",
+        "year": 1897,
+        "pages": 747,
+        "isbn": "978-0-276-42313-0",
+        "rating": 3.14,
+        "price": 368.29,
+        "author": [
+            "Kristin Cooper",
+            "Jerome Mccall",
+            "Jordan Fisher"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 64,
+    "fields": {
+        "title": "\"\u0418\u0435\u0440\u043e \u043d\u0435 \u0434\u0430\u044e\u0442 \u043f\u043e\u043a\u043e\u044f\"",
+        "year": 1636,
+        "pages": 944,
+        "isbn": "978-1-04-501926-4",
+        "rating": 2.57,
+        "price": 266.02,
+        "author": [
+            "Timothy Hale",
+            "Mr. Chad Nelson",
+            "Edward Garcia"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 65,
+    "fields": {
+        "title": "\"\u0418\u0435\u0440\u043e \u043d\u0435 \u0434\u0430\u044e\u0442 \u043f\u043e\u043a\u043e\u044f\"",
+        "year": 1660,
+        "pages": 637,
+        "isbn": "978-1-318-67106-9",
+        "rating": 3.12,
+        "price": 390.31,
+        "author": [
+            "Laura York"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 66,
+    "fields": {
+        "title": "\"\u0425\u0438\u043c\u0435\u0440\u0430\"",
+        "year": 1608,
+        "pages": 643,
+        "isbn": "978-1-277-94612-3",
+        "rating": 0.86,
+        "price": 492.76,
+        "author": [
+            "Julie Montgomery"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 67,
+    "fields": {
+        "title": "\"\u0426\u0432\u0435\u0442\u044b \u0434\u043b\u044f \u042d\u043b\u0434\u0436\u0435\u0440\u043d\u043e\u043d\u0430\"",
+        "year": 1635,
+        "pages": 202,
+        "isbn": "978-0-683-72559-9",
+        "rating": 3.7,
+        "price": 784.47,
+        "author": [
+            "Lori Harris"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 68,
+    "fields": {
+        "title": "\"\u0414\u044e\u043d\u0430\"",
+        "year": 1751,
+        "pages": 783,
+        "isbn": "978-1-5379-2748-0",
+        "rating": 3.05,
+        "price": 640.12,
+        "author": [
+            "Andrew Gardner"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 69,
+    "fields": {
+        "title": "\"\u0414\u044e\u043d\u0430\"",
+        "year": 1906,
+        "pages": 292,
+        "isbn": "978-0-371-78473-0",
+        "rating": 3.52,
+        "price": 272.25,
+        "author": [
+            "Jonathan Aguilar",
+            "Mark Mccormick"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 70,
+    "fields": {
+        "title": "\"\u0412\u043b\u0430\u0441\u0442\u0435\u043b\u0438\u043d \u043a\u043e\u043b\u0435\u0446\"",
+        "year": 1757,
+        "pages": 763,
+        "isbn": "978-0-451-97756-4",
+        "rating": 0.66,
+        "price": 885.09,
+        "author": [
+            "Mark Fisher",
+            "Amy Arias",
+            "Ronald Anderson"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 71,
+    "fields": {
+        "title": "\"\u0413\u0440\u0443\u0444\u0444\u0430\u043b\u043e\"",
+        "year": 1933,
+        "pages": 514,
+        "isbn": "978-1-142-11933-1",
+        "rating": 3.19,
+        "price": 282.48,
+        "author": [
+            "Christopher Hartman",
+            "John Ayala",
+            "William Morales"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 72,
+    "fields": {
+        "title": "\"\u0425\u0438\u0440\u0443\u0440\u0433\"",
+        "year": 1920,
+        "pages": 22,
+        "isbn": "978-0-625-84199-8",
+        "rating": 2.7,
+        "price": 342.97,
+        "author": [
+            "Nancy Garner",
+            "Brandi Brown"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 73,
+    "fields": {
+        "title": "\"\u0425\u0438\u0440\u0443\u0440\u0433\"",
+        "year": 1715,
+        "pages": 493,
+        "isbn": "978-1-291-27218-5",
+        "rating": 0.62,
+        "price": 929.43,
+        "author": [
+            "Michelle Tyler",
+            "Spencer Brown",
+            "Angela Holmes"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 74,
+    "fields": {
+        "title": "\"\u0425\u0438\u0440\u0443\u0440\u0433\"",
+        "year": 1654,
+        "pages": 524,
+        "isbn": "978-0-265-24637-5",
+        "rating": 1.79,
+        "price": 376.36,
+        "author": [
+            "Patricia Randolph",
+            "Sheila Snyder"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 75,
+    "fields": {
+        "title": "\"\u041d\u0430\u0434 \u043f\u0440\u043e\u043f\u0430\u0441\u0442\u044c\u044e \u0432\u043e \u0440\u0436\u0438\"",
+        "year": 1995,
+        "pages": 314,
+        "isbn": "978-0-85021-368-3",
+        "rating": 0.23,
+        "price": 176.01,
+        "author": [
+            "Sarah Larson",
+            "James Rodriguez"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 76,
+    "fields": {
+        "title": "\"\u0425\u0438\u043c\u0435\u0440\u0430\"",
+        "year": 1872,
+        "pages": 64,
+        "isbn": "978-1-61279-207-1",
+        "rating": 3.94,
+        "price": 801.69,
+        "author": [
+            "Melissa Bates",
+            "Dr. Gregory Hudson"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 77,
+    "fields": {
+        "title": "\"\u0414\u044e\u043d\u0430\"",
+        "year": 2005,
+        "pages": 51,
+        "isbn": "978-0-01-945394-3",
+        "rating": 4.73,
+        "price": 153.38,
+        "author": [
+            "Mark Perkins",
+            "Jose Gordon"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 78,
+    "fields": {
+        "title": "\"\u0425\u0438\u0440\u0443\u0440\u0433\"",
+        "year": 1716,
+        "pages": 998,
+        "isbn": "978-1-384-67412-4",
+        "rating": 3.31,
+        "price": 265.23,
+        "author": [
+            "Maria Hansen"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 79,
+    "fields": {
+        "title": "\"\u0425\u0438\u0440\u0443\u0440\u0433\"",
+        "year": 1657,
+        "pages": 786,
+        "isbn": "978-1-67915-642-7",
+        "rating": 0.6,
+        "price": 152.71,
+        "author": [
+            "Matthew Bradley",
+            "Cameron Green"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 80,
+    "fields": {
+        "title": "\"\u0413\u0440\u0443\u0444\u0444\u0430\u043b\u043e\"",
+        "year": 1855,
+        "pages": 138,
+        "isbn": "978-1-61852-837-7",
+        "rating": 3.23,
+        "price": 455.05,
+        "author": [
+            "Jerry Kirk",
+            "Jason Khan",
+            "Stephen Beck"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 81,
+    "fields": {
+        "title": "\"\u0425\u0438\u0440\u0443\u0440\u0433\"",
+        "year": 1863,
+        "pages": 291,
+        "isbn": "978-1-64696-283-9",
+        "rating": 3.74,
+        "price": 254.82,
+        "author": [
+            "Lisa Salazar"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 82,
+    "fields": {
+        "title": "\"\u0428\u0442\u0430\u043c\u043c \"\u0410\u043d\u0434\u0440\u043e\u043c\u0435\u0434\u0430\"\"",
+        "year": 1723,
+        "pages": 782,
+        "isbn": "978-1-81992-112-0",
+        "rating": 0.83,
+        "price": 803.7,
+        "author": [
+            "Desiree Miller",
+            "Willie Williams"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 83,
+    "fields": {
+        "title": "\"\u0412\u043b\u0430\u0441\u0442\u0435\u043b\u0438\u043d \u043a\u043e\u043b\u0435\u0446\"",
+        "year": 1764,
+        "pages": 932,
+        "isbn": "978-1-192-52097-2",
+        "rating": 2.24,
+        "price": 651.95,
+        "author": [
+            "Jerry Castillo",
+            "Melissa Perez",
+            "Nancy Campbell"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 84,
+    "fields": {
+        "title": "\"\u0428\u0442\u0430\u043c\u043c \"\u0410\u043d\u0434\u0440\u043e\u043c\u0435\u0434\u0430\"\"",
+        "year": 1977,
+        "pages": 286,
+        "isbn": "978-1-995120-13-3",
+        "rating": 0.64,
+        "price": 960.88,
+        "author": [
+            "Miss Nicole Reynolds"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 85,
+    "fields": {
+        "title": "\"\u0412\u043b\u0430\u0441\u0442\u0435\u043b\u0438\u043d \u043a\u043e\u043b\u0435\u0446\"",
+        "year": 1614,
+        "pages": 384,
+        "isbn": "978-0-02-374344-3",
+        "rating": 0.75,
+        "price": 489.86,
+        "author": [
+            "Angelica Alvarez",
+            "Stephen Williams",
+            "Brian Werner"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 86,
+    "fields": {
+        "title": "\"\u0414\u044e\u043d\u0430\"",
+        "year": 1748,
+        "pages": 648,
+        "isbn": "978-0-664-54656-4",
+        "rating": 3.82,
+        "price": 794.31,
+        "author": [
+            "Amy Monroe",
+            "Rebecca Wilson"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 87,
+    "fields": {
+        "title": "\"\u0428\u0442\u0430\u043c\u043c \"\u0410\u043d\u0434\u0440\u043e\u043c\u0435\u0434\u0430\"\"",
+        "year": 1682,
+        "pages": 862,
+        "isbn": "978-0-409-77992-9",
+        "rating": 4.42,
+        "price": 427.14,
+        "author": [
+            "Victor Wilkins",
+            "Joan Schmitt",
+            "Luis Horn"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 88,
+    "fields": {
+        "title": "\"\u0428\u0442\u0430\u043c\u043c \"\u0410\u043d\u0434\u0440\u043e\u043c\u0435\u0434\u0430\"\"",
+        "year": 1610,
+        "pages": 748,
+        "isbn": "978-0-529-43484-5",
+        "rating": 0.63,
+        "price": 288.13,
+        "author": [
+            "Eric Perkins"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 89,
+    "fields": {
+        "title": "\"\u0412\u043b\u0430\u0441\u0442\u0435\u043b\u0438\u043d \u043a\u043e\u043b\u0435\u0446\"",
+        "year": 1661,
+        "pages": 444,
+        "isbn": "978-1-60550-422-3",
+        "rating": 2.28,
+        "price": 133.96,
+        "author": [
+            "Douglas Santiago",
+            "Debra Jimenez"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 90,
+    "fields": {
+        "title": "\"\u0418\u0435\u0440\u043e \u043d\u0435 \u0434\u0430\u044e\u0442 \u043f\u043e\u043a\u043e\u044f\"",
+        "year": 1690,
+        "pages": 563,
+        "isbn": "978-1-4178-7814-7",
+        "rating": 0.75,
+        "price": 443.25,
+        "author": [
+            "Rodney Tucker",
+            "Cynthia Williams"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 91,
+    "fields": {
+        "title": "\"\u0425\u0438\u043c\u0435\u0440\u0430\"",
+        "year": 1912,
+        "pages": 445,
+        "isbn": "978-0-359-87650-1",
+        "rating": 4.47,
+        "price": 562.86,
+        "author": [
+            "Ronald Ray",
+            "Kathleen Jones",
+            "Kristin Hess"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 92,
+    "fields": {
+        "title": "\"\u0414\u044e\u043d\u0430\"",
+        "year": 1898,
+        "pages": 408,
+        "isbn": "978-0-695-22962-7",
+        "rating": 4.12,
+        "price": 236.04,
+        "author": [
+            "Danny Hernandez",
+            "Joshua Morrison"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 93,
+    "fields": {
+        "title": "\"\u0428\u0442\u0430\u043c\u043c \"\u0410\u043d\u0434\u0440\u043e\u043c\u0435\u0434\u0430\"\"",
+        "year": 1799,
+        "pages": 57,
+        "isbn": "978-1-211-33982-0",
+        "rating": 3.54,
+        "price": 186.37,
+        "author": [
+            "Kathy Rose",
+            "Lauren Smith",
+            "Douglas Maddox"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 94,
+    "fields": {
+        "title": "\"\u0412\u043b\u0430\u0441\u0442\u0435\u043b\u0438\u043d \u043a\u043e\u043b\u0435\u0446\"",
+        "year": 1798,
+        "pages": 136,
+        "isbn": "978-0-391-98347-2",
+        "rating": 1.31,
+        "price": 345.78,
+        "author": [
+            "Mr. Guy Webb"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 95,
+    "fields": {
+        "title": "\"\u0428\u0442\u0430\u043c\u043c \"\u0410\u043d\u0434\u0440\u043e\u043c\u0435\u0434\u0430\"\"",
+        "year": 1661,
+        "pages": 658,
+        "isbn": "978-1-08-529618-2",
+        "rating": 1.43,
+        "price": 464.17,
+        "author": [
+            "Theresa Johnson",
+            "Robin Hernandez"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 96,
+    "fields": {
+        "title": "\"\u0418\u0435\u0440\u043e \u043d\u0435 \u0434\u0430\u044e\u0442 \u043f\u043e\u043a\u043e\u044f\"",
+        "year": 1674,
+        "pages": 808,
+        "isbn": "978-0-10-054771-1",
+        "rating": 4.95,
+        "price": 700.45,
+        "author": [
+            "Shawn Lawrence",
+            "Norman White"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 97,
+    "fields": {
+        "title": "\"\u0426\u0432\u0435\u0442\u044b \u0434\u043b\u044f \u042d\u043b\u0434\u0436\u0435\u0440\u043d\u043e\u043d\u0430\"",
+        "year": 1770,
+        "pages": 708,
+        "isbn": "978-1-58767-059-6",
+        "rating": 0.11,
+        "price": 379.88,
+        "author": [
+            "Mike Jones",
+            "Alexis Rowland"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 98,
+    "fields": {
+        "title": "\"\u0414\u0438\u0432\u043d\u044b\u0439 \u043d\u043e\u0432\u044b\u0439 \u043c\u0438\u0440\"",
+        "year": 1955,
+        "pages": 286,
+        "isbn": "978-1-84049-959-9",
+        "rating": 0.91,
+        "price": 924.71,
+        "author": [
+            "Jose Powell"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 99,
+    "fields": {
+        "title": "\"\u0413\u0440\u0443\u0444\u0444\u0430\u043b\u043e\"",
+        "year": 1645,
+        "pages": 494,
+        "isbn": "978-0-462-71702-9",
+        "rating": 4.18,
+        "price": 394.52,
+        "author": [
+            "Jennifer Daugherty",
+            "William Pierce"
+        ]
+    }
+}{
+    "model": "shop_final.book",
+    "pk": 100,
+    "fields": {
+        "title": "\"\u0414\u044e\u043d\u0430\"",
+        "year": 1909,
+        "pages": 248,
+        "isbn": "978-1-06-124304-9",
+        "rating": 4.29,
+        "price": 289.1,
+        "author": [
+            "David Powell",
+            "Jimmy Hansen"
+        ]
+    }
+}
