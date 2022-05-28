@@ -17,7 +17,9 @@ def library_generator(pk=1):
                              "rating": rating.rating(), "price": price.price(),
                              "author": author.author()}
         yield library
+        library = {}
     pk += 1
+
 
 def main(pk=1):
     with open("Библиотека.json", "w", encoding="Utf-8") as out:

@@ -3,16 +3,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Иеро не дают покоя\"",
+            "year": 1818,
+            "pages": 265,
+            "isbn": "978-1-07-322368-8",
+            "rating": 1.02,
+            "price": 727.36,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "John Ford",
+                "Michael Smith"
             ]
         }
     },
@@ -20,16 +19,16 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Дюна\"",
+            "year": 1874,
+            "pages": 272,
+            "isbn": "978-0-536-75880-4",
+            "rating": 3.48,
+            "price": 331.23,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Lindsay Hart",
+                "Jessica Garcia",
+                "Richard Smith"
             ]
         }
     },
@@ -37,16 +36,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Дивный новый мир\"",
+            "year": 1886,
+            "pages": 770,
+            "isbn": "978-0-563-47323-7",
+            "rating": 2.57,
+            "price": 472.31,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Nicholas Booth"
             ]
         }
     },
@@ -54,16 +51,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Властелин колец\"",
+            "year": 1718,
+            "pages": 870,
+            "isbn": "978-1-58117-524-0",
+            "rating": 2.41,
+            "price": 631.97,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "James Moon"
             ]
         }
     },
@@ -71,16 +66,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Химера\"",
+            "year": 1958,
+            "pages": 880,
+            "isbn": "978-0-432-38411-4",
+            "rating": 0.99,
+            "price": 270.65,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Brian Morales"
             ]
         }
     },
@@ -88,16 +81,16 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Властелин колец\"",
+            "year": 1773,
+            "pages": 432,
+            "isbn": "978-1-235-81963-6",
+            "rating": 0.15,
+            "price": 574.81,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Mrs. Katherine Norris",
+                "Kristie Ellis",
+                "Patricia Rodgers"
             ]
         }
     },
@@ -106,15 +99,14 @@
         "pk": 1,
         "fields": {
             "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "year": 1645,
+            "pages": 247,
+            "isbn": "978-0-09-102036-1",
+            "rating": 1.23,
+            "price": 355.25,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Jennifer Walker",
+                "Kayla Patterson"
             ]
         }
     },
@@ -122,16 +114,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Штамм \"Андромеда\"\"",
+            "year": 1858,
+            "pages": 918,
+            "isbn": "978-1-59034-681-5",
+            "rating": 3.79,
+            "price": 536.82,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Karen Cruz",
+                "Francisco Brown Jr."
             ]
         }
     },
@@ -139,16 +130,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Штамм \"Андромеда\"\"",
+            "year": 1772,
+            "pages": 774,
+            "isbn": "978-0-7890-0612-7",
+            "rating": 1.2,
+            "price": 749.36,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Heather Andrews",
+                "Ryan Scott"
             ]
         }
     },
@@ -156,16 +146,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Властелин колец\"",
+            "year": 1905,
+            "pages": 319,
+            "isbn": "978-1-299-99269-6",
+            "rating": 2.79,
+            "price": 775.56,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Joel Ramirez",
+                "Heather Romero"
             ]
         }
     },
@@ -173,16 +162,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Иеро не дают покоя\"",
+            "year": 1864,
+            "pages": 943,
+            "isbn": "978-0-503-92694-6",
+            "rating": 4.08,
+            "price": 530.41,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Gary Moran DDS"
             ]
         }
     },
@@ -190,16 +177,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Штамм \"Андромеда\"\"",
+            "year": 1818,
+            "pages": 361,
+            "isbn": "978-0-07-876480-6",
+            "rating": 1.35,
+            "price": 410.37,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Mark Mooney"
             ]
         }
     },
@@ -207,16 +192,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Властелин колец\"",
+            "year": 1823,
+            "pages": 811,
+            "isbn": "978-1-00-584752-4",
+            "rating": 2.75,
+            "price": 713.3,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Kurt Hickman",
+                "Steven Jackson"
             ]
         }
     },
@@ -224,16 +208,16 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Дюна\"",
+            "year": 1918,
+            "pages": 962,
+            "isbn": "978-0-9954101-2-1",
+            "rating": 2.95,
+            "price": 721.99,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Paula Davis",
+                "Thomas Daniels",
+                "Deborah Fritz"
             ]
         }
     },
@@ -241,16 +225,16 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Дюна\"",
+            "year": 1643,
+            "pages": 380,
+            "isbn": "978-0-02-084118-0",
+            "rating": 1.54,
+            "price": 581.33,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Jerry Anderson",
+                "Darius Myers",
+                "Brittany Williams"
             ]
         }
     },
@@ -258,16 +242,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Дюна\"",
+            "year": 2011,
+            "pages": 48,
+            "isbn": "978-0-418-84774-9",
+            "rating": 0.66,
+            "price": 617.66,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Sarah Ramsey"
             ]
         }
     },
@@ -275,16 +257,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Дивный новый мир\"",
+            "year": 1669,
+            "pages": 324,
+            "isbn": "978-0-624-37733-7",
+            "rating": 3.66,
+            "price": 765.22,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Gary Montoya",
+                "Jennifer Johnson"
             ]
         }
     },
@@ -292,16 +273,16 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Над пропастью во ржи\"",
+            "year": 1754,
+            "pages": 669,
+            "isbn": "978-1-4060-5937-3",
+            "rating": 1.8,
+            "price": 979.77,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Laura Waters",
+                "Andrew Meyer",
+                "Jacqueline Brown"
             ]
         }
     },
@@ -309,16 +290,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
+            "title": "\"Над пропастью во ржи\"",
+            "year": 1763,
+            "pages": 706,
+            "isbn": "978-0-691-27789-9",
             "rating": 4.39,
-            "price": 444.71,
+            "price": 266.76,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Benjamin Hinton"
             ]
         }
     },
@@ -326,16 +305,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Дюна\"",
+            "year": 1912,
+            "pages": 76,
+            "isbn": "978-1-383-54512-8",
+            "rating": 2.3,
+            "price": 950.11,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Anthony Hoover",
+                "James Burton"
             ]
         }
     },
@@ -343,16 +321,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Дивный новый мир\"",
+            "year": 1620,
+            "pages": 863,
+            "isbn": "978-0-9529830-9-5",
+            "rating": 3.85,
+            "price": 392.13,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Jessica Hunter",
+                "Laura Hunter"
             ]
         }
     },
@@ -360,16 +337,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Цветы для Элджернона\"",
+            "year": 1666,
+            "pages": 573,
+            "isbn": "978-1-63648-731-1",
+            "rating": 1.5,
+            "price": 438.83,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Michael Buckley"
             ]
         }
     },
@@ -377,16 +352,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Химера\"",
+            "year": 1882,
+            "pages": 59,
+            "isbn": "978-0-7795-6707-2",
+            "rating": 2.87,
+            "price": 326.63,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Michael Kelley"
             ]
         }
     },
@@ -394,16 +367,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Над пропастью во ржи\"",
+            "year": 1880,
+            "pages": 355,
+            "isbn": "978-1-956428-24-7",
+            "rating": 4.66,
+            "price": 966.42,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Bonnie Kelley",
+                "Aaron Stewart"
             ]
         }
     },
@@ -411,16 +383,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Иеро не дают покоя\"",
+            "year": 1669,
+            "pages": 971,
+            "isbn": "978-1-926008-31-8",
+            "rating": 1.76,
+            "price": 998.99,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Carolyn Moyer"
             ]
         }
     },
@@ -428,16 +398,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Штамм \"Андромеда\"\"",
+            "year": 1670,
+            "pages": 416,
+            "isbn": "978-1-151-55786-5",
+            "rating": 1.07,
+            "price": 985.57,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Ronald Lewis"
             ]
         }
     },
@@ -445,16 +413,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Дивный новый мир\"",
+            "year": 1743,
+            "pages": 806,
+            "isbn": "978-1-58762-273-1",
+            "rating": 4.56,
+            "price": 537.38,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "John Williams",
+                "Laura Ramos"
             ]
         }
     },
@@ -463,15 +430,15 @@
         "pk": 1,
         "fields": {
             "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "year": 1804,
+            "pages": 327,
+            "isbn": "978-0-10-236093-6",
+            "rating": 5.0,
+            "price": 362.11,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Sara Hubbard",
+                "David Mendez",
+                "Kathleen Brown"
             ]
         }
     },
@@ -479,16 +446,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Дюна\"",
+            "year": 1816,
+            "pages": 372,
+            "isbn": "978-1-184-36780-6",
+            "rating": 4.87,
+            "price": 833.18,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Stephanie Torres"
             ]
         }
     },
@@ -496,16 +461,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Иеро не дают покоя\"",
+            "year": 1945,
+            "pages": 745,
+            "isbn": "978-0-568-77181-9",
+            "rating": 1.27,
+            "price": 297.88,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Tammy Smith"
             ]
         }
     },
@@ -514,15 +477,13 @@
         "pk": 1,
         "fields": {
             "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "year": 1779,
+            "pages": 41,
+            "isbn": "978-1-897107-04-1",
+            "rating": 1.94,
+            "price": 563.36,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Christopher Perez"
             ]
         }
     },
@@ -530,16 +491,16 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Дюна\"",
+            "year": 1970,
+            "pages": 959,
+            "isbn": "978-1-63593-676-6",
+            "rating": 3.48,
+            "price": 232.85,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Jodi Reyes",
+                "Carla Cohen",
+                "Tiffany Church"
             ]
         }
     },
@@ -547,16 +508,16 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Над пропастью во ржи\"",
+            "year": 1828,
+            "pages": 783,
+            "isbn": "978-1-01-738905-0",
+            "rating": 2.66,
+            "price": 852.3,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "April Thomas",
+                "Leonard Allen",
+                "Joseph Case"
             ]
         }
     },
@@ -564,16 +525,16 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Дюна\"",
+            "year": 1818,
+            "pages": 383,
+            "isbn": "978-0-8039-4327-8",
+            "rating": 1.42,
+            "price": 188.05,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Dave Wiley",
+                "Rebecca Whitney",
+                "Robert Garrison"
             ]
         }
     },
@@ -581,16 +542,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Иеро не дают покоя\"",
+            "year": 1981,
+            "pages": 657,
+            "isbn": "978-0-03-449854-7",
+            "rating": 2.29,
+            "price": 973.83,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Brian Fischer"
             ]
         }
     },
@@ -598,16 +557,16 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Над пропастью во ржи\"",
+            "year": 1620,
+            "pages": 877,
+            "isbn": "978-1-182-94339-2",
+            "rating": 3.38,
+            "price": 877.47,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Aimee Owens",
+                "Angelica Lynch",
+                "Richard Reynolds"
             ]
         }
     },
@@ -616,15 +575,14 @@
         "pk": 1,
         "fields": {
             "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "year": 1675,
+            "pages": 336,
+            "isbn": "978-0-696-93148-2",
+            "rating": 1.51,
+            "price": 854.71,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Tiffany Jenkins",
+                "Natasha Peters"
             ]
         }
     },
@@ -632,16 +590,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Химера\"",
+            "year": 1986,
+            "pages": 815,
+            "isbn": "978-1-235-05590-4",
+            "rating": 4.57,
+            "price": 239.69,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Nathaniel Avila"
             ]
         }
     },
@@ -649,16 +605,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Дюна\"",
+            "year": 1875,
+            "pages": 806,
+            "isbn": "978-1-5271-7824-3",
+            "rating": 2.38,
+            "price": 234.32,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Reginald Hicks",
+                "James Barker"
             ]
         }
     },
@@ -666,16 +621,16 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Иеро не дают покоя\"",
+            "year": 1692,
+            "pages": 261,
+            "isbn": "978-0-206-19882-4",
+            "rating": 4.67,
+            "price": 533.02,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Alexandra Kidd",
+                "Sarah Fisher",
+                "Robert Hatfield"
             ]
         }
     },
@@ -683,16 +638,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Цветы для Элджернона\"",
+            "year": 1760,
+            "pages": 541,
+            "isbn": "978-0-9619118-2-9",
+            "rating": 2.95,
+            "price": 698.37,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Tina Nunez"
             ]
         }
     },
@@ -700,16 +653,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Хирург\"",
+            "year": 1698,
+            "pages": 258,
+            "isbn": "978-1-69275-530-0",
+            "rating": 1.26,
+            "price": 487.24,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Cory Terry",
+                "Teresa Anthony"
             ]
         }
     },
@@ -717,16 +669,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Над пропастью во ржи\"",
+            "year": 1966,
+            "pages": 71,
+            "isbn": "978-1-76328-079-3",
+            "rating": 4.21,
+            "price": 760.94,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Tracy Mathis"
             ]
         }
     },
@@ -734,16 +684,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
+            "title": "\"Дивный новый мир\"",
+            "year": 1829,
+            "pages": 542,
+            "isbn": "978-1-81922-521-1",
             "rating": 4.39,
-            "price": 444.71,
+            "price": 292.66,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Ryan Summers"
             ]
         }
     },
@@ -751,16 +699,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Дюна\"",
+            "year": 1891,
+            "pages": 759,
+            "isbn": "978-1-55986-133-5",
+            "rating": 0.59,
+            "price": 601.18,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Laurie Thornton"
             ]
         }
     },
@@ -768,16 +714,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Над пропастью во ржи\"",
+            "year": 1714,
+            "pages": 906,
+            "isbn": "978-1-172-33035-5",
+            "rating": 0.39,
+            "price": 223.77,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Robert Morton",
+                "Jessica Jones DDS"
             ]
         }
     },
@@ -785,16 +730,16 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Хирург\"",
+            "year": 1955,
+            "pages": 898,
+            "isbn": "978-1-4068-2287-8",
+            "rating": 1.78,
+            "price": 407.26,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Stephen Mckenzie",
+                "Nicholas Jones",
+                "Jennifer Dickerson"
             ]
         }
     },
@@ -802,16 +747,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Властелин колец\"",
+            "year": 1865,
+            "pages": 91,
+            "isbn": "978-1-137-10693-3",
+            "rating": 0.41,
+            "price": 401.81,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Mr. David Ramos"
             ]
         }
     },
@@ -819,16 +762,16 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Дивный новый мир\"",
+            "year": 1670,
+            "pages": 553,
+            "isbn": "978-1-919847-65-8",
+            "rating": 3.11,
+            "price": 770.57,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Andrew Bailey",
+                "Justin Murphy",
+                "Anthony Leblanc"
             ]
         }
     },
@@ -836,16 +779,16 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Штамм \"Андромеда\"\"",
+            "year": 1992,
+            "pages": 126,
+            "isbn": "978-0-392-50786-8",
+            "rating": 4.7,
+            "price": 769.13,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Laura Greer",
+                "David Perkins",
+                "Stephanie Williams"
             ]
         }
     },
@@ -854,15 +797,13 @@
         "pk": 1,
         "fields": {
             "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "year": 1969,
+            "pages": 210,
+            "isbn": "978-1-271-21788-5",
+            "rating": 2.15,
+            "price": 934.05,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Kristen Cohen"
             ]
         }
     },
@@ -870,16 +811,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Иеро не дают покоя\"",
+            "year": 1899,
+            "pages": 165,
+            "isbn": "978-1-4024-3117-3",
+            "rating": 3.54,
+            "price": 746.65,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Ryan Cooper",
+                "David Walker MD"
             ]
         }
     },
@@ -887,16 +827,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Иеро не дают покоя\"",
+            "year": 1884,
+            "pages": 133,
+            "isbn": "978-0-08-604300-9",
+            "rating": 1.88,
+            "price": 999.12,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Ricardo Osborne",
+                "Michael Hartman"
             ]
         }
     },
@@ -904,16 +843,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Властелин колец\"",
+            "year": 1922,
+            "pages": 391,
+            "isbn": "978-0-227-58490-3",
+            "rating": 1.31,
+            "price": 954.23,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Rebecca Sanford",
+                "Sandra Parker"
             ]
         }
     },
@@ -921,16 +859,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Цветы для Элджернона\"",
+            "year": 1896,
+            "pages": 674,
+            "isbn": "978-0-05-063087-7",
+            "rating": 3.41,
+            "price": 330.21,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Julie Hart"
             ]
         }
     },
@@ -938,16 +874,16 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Цветы для Элджернона\"",
+            "year": 1938,
+            "pages": 674,
+            "isbn": "978-0-948455-96-4",
+            "rating": 3.21,
+            "price": 753.15,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Renee Proctor",
+                "Kenneth Richards",
+                "Jordan Spence"
             ]
         }
     },
@@ -955,16 +891,16 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Химера\"",
+            "year": 1618,
+            "pages": 947,
+            "isbn": "978-0-390-13387-8",
+            "rating": 0.29,
+            "price": 801.1,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Jacob Rogers",
+                "Angie Simmons",
+                "James Anderson"
             ]
         }
     },
@@ -972,16 +908,16 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Химера\"",
+            "year": 1667,
+            "pages": 740,
+            "isbn": "978-1-106-83782-0",
+            "rating": 3.69,
+            "price": 276.81,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Matthew James",
+                "Richard Sanchez",
+                "Carrie Hernandez"
             ]
         }
     },
@@ -989,16 +925,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Дивный новый мир\"",
+            "year": 1640,
+            "pages": 62,
+            "isbn": "978-1-5363-0903-4",
+            "rating": 3.72,
+            "price": 868.86,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Kevin Andrews"
             ]
         }
     },
@@ -1006,16 +940,16 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Дюна\"",
+            "year": 1833,
+            "pages": 296,
+            "isbn": "978-0-511-78132-2",
+            "rating": 4.04,
+            "price": 628.16,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Jesse Smith",
+                "Jessica Mitchell",
+                "Harold Pierce"
             ]
         }
     },
@@ -1023,16 +957,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Химера\"",
+            "year": 1871,
+            "pages": 374,
+            "isbn": "978-0-86579-755-0",
+            "rating": 2.7,
+            "price": 450.69,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "James Mckenzie",
+                "Bruce Cruz"
             ]
         }
     },
@@ -1040,16 +973,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Властелин колец\"",
+            "year": 1993,
+            "pages": 867,
+            "isbn": "978-1-306-02806-6",
+            "rating": 2.79,
+            "price": 798.46,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Justin Ortiz"
             ]
         }
     },
@@ -1057,16 +988,16 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Химера\"",
+            "year": 1891,
+            "pages": 718,
+            "isbn": "978-1-78291-275-0",
+            "rating": 4.13,
+            "price": 245.27,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Alexandra Hale",
+                "Katrina Bradshaw",
+                "Veronica Chavez"
             ]
         }
     },
@@ -1074,16 +1005,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Хирург\"",
+            "year": 1923,
+            "pages": 315,
+            "isbn": "978-1-55448-363-1",
+            "rating": 0.81,
+            "price": 261.78,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Marcus Wagner",
+                "Roger Nichols"
             ]
         }
     },
@@ -1091,16 +1021,16 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Дивный новый мир\"",
+            "year": 1744,
+            "pages": 148,
+            "isbn": "978-0-400-17455-6",
+            "rating": 3.71,
+            "price": 674.01,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Samuel Thompson",
+                "Jessica Howard",
+                "Heather Hernandez"
             ]
         }
     },
@@ -1108,16 +1038,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Цветы для Элджернона\"",
+            "year": 1854,
+            "pages": 530,
+            "isbn": "978-1-4983-3615-4",
+            "rating": 4.66,
+            "price": 941.03,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Jessica Mueller",
+                "Peter Manning"
             ]
         }
     },
@@ -1125,16 +1054,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Дюна\"",
+            "year": 1690,
+            "pages": 153,
+            "isbn": "978-1-881916-24-6",
+            "rating": 1.21,
+            "price": 640.92,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Cheyenne Nash"
             ]
         }
     },
@@ -1142,16 +1069,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Властелин колец\"",
+            "year": 1980,
+            "pages": 499,
+            "isbn": "978-1-00-459781-9",
+            "rating": 0.04,
+            "price": 663.38,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Adam Randall"
             ]
         }
     },
@@ -1159,16 +1084,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Химера\"",
+            "year": 1604,
+            "pages": 47,
+            "isbn": "978-0-448-36705-7",
+            "rating": 0.77,
+            "price": 555.31,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Virginia Anderson"
             ]
         }
     },
@@ -1176,16 +1099,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Властелин колец\"",
+            "year": 1912,
+            "pages": 198,
+            "isbn": "978-1-00-312649-2",
+            "rating": 0.63,
+            "price": 376.1,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Jennifer Smith",
+                "John Moss"
             ]
         }
     },
@@ -1194,15 +1116,15 @@
         "pk": 1,
         "fields": {
             "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
+            "year": 1959,
+            "pages": 241,
+            "isbn": "978-1-80258-642-8",
             "rating": 4.39,
-            "price": 444.71,
+            "price": 128.61,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "David Conner",
+                "Scott Johnson",
+                "Janet Armstrong"
             ]
         }
     },
@@ -1210,16 +1132,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Дюна\"",
+            "year": 1750,
+            "pages": 349,
+            "isbn": "978-0-7301-6153-0",
+            "rating": 2.89,
+            "price": 645.98,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "William Brown"
             ]
         }
     },
@@ -1227,16 +1147,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Дюна\"",
+            "year": 1929,
+            "pages": 930,
+            "isbn": "978-1-03-992907-4",
+            "rating": 4.91,
+            "price": 344.43,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Margaret Torres"
             ]
         }
     },
@@ -1244,16 +1162,16 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Хирург\"",
+            "year": 1938,
+            "pages": 300,
+            "isbn": "978-0-235-62131-7",
+            "rating": 2.27,
+            "price": 840.1,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Charles Beasley",
+                "Mark Webb",
+                "Jennifer Campbell"
             ]
         }
     },
@@ -1261,16 +1179,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Властелин колец\"",
+            "year": 1928,
+            "pages": 874,
+            "isbn": "978-0-567-11417-4",
+            "rating": 3.13,
+            "price": 468.69,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Matthew Lucas"
             ]
         }
     },
@@ -1278,16 +1194,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Иеро не дают покоя\"",
+            "year": 1906,
+            "pages": 118,
+            "isbn": "978-1-62393-813-0",
+            "rating": 0.91,
+            "price": 255.05,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "April Jackson"
             ]
         }
     },
@@ -1296,15 +1210,15 @@
         "pk": 1,
         "fields": {
             "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "year": 1779,
+            "pages": 564,
+            "isbn": "978-1-84438-401-3",
+            "rating": 1.44,
+            "price": 313.72,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Sandra Long",
+                "Patricia Young",
+                "John Franklin"
             ]
         }
     },
@@ -1312,16 +1226,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Дивный новый мир\"",
+            "year": 1676,
+            "pages": 796,
+            "isbn": "978-1-337-63728-2",
+            "rating": 1.86,
+            "price": 719.01,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Erica Ferguson",
+                "Alison Edwards"
             ]
         }
     },
@@ -1330,15 +1243,14 @@
         "pk": 1,
         "fields": {
             "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "year": 1926,
+            "pages": 827,
+            "isbn": "978-0-9993101-2-0",
+            "rating": 2.66,
+            "price": 986.13,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Amanda Boone",
+                "Kristina May"
             ]
         }
     },
@@ -1346,16 +1258,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Иеро не дают покоя\"",
+            "year": 1818,
+            "pages": 489,
+            "isbn": "978-1-4585-7042-0",
+            "rating": 1.93,
+            "price": 495.99,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Nathaniel Campbell",
+                "Kayla Day"
             ]
         }
     },
@@ -1363,16 +1274,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Химера\"",
+            "year": 1729,
+            "pages": 319,
+            "isbn": "978-1-242-10603-3",
+            "rating": 0.26,
+            "price": 178.63,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Heather Valenzuela",
+                "Marc Smith"
             ]
         }
     },
@@ -1380,16 +1290,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Властелин колец\"",
+            "year": 1612,
+            "pages": 485,
+            "isbn": "978-0-01-573093-2",
+            "rating": 1.21,
+            "price": 105.72,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Sean Miller",
+                "Alex Gamble"
             ]
         }
     },
@@ -1397,16 +1306,16 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Хирург\"",
+            "year": 1625,
+            "pages": 694,
+            "isbn": "978-1-133-63795-0",
+            "rating": 3.68,
+            "price": 573.25,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Chris Gillespie",
+                "Eddie Jones",
+                "Douglas Howard"
             ]
         }
     },
@@ -1414,16 +1323,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Химера\"",
+            "year": 1798,
+            "pages": 148,
+            "isbn": "978-0-86845-391-0",
+            "rating": 4.6,
+            "price": 307.31,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Lawrence Smith",
+                "Christian Copeland"
             ]
         }
     },
@@ -1431,16 +1339,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Хирург\"",
+            "year": 1901,
+            "pages": 43,
+            "isbn": "978-1-388-27075-9",
+            "rating": 2.91,
+            "price": 578.38,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Justin Morrison"
             ]
         }
     },
@@ -1449,15 +1355,14 @@
         "pk": 1,
         "fields": {
             "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "year": 1834,
+            "pages": 401,
+            "isbn": "978-0-229-84858-4",
+            "rating": 2.61,
+            "price": 792.02,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Stephanie Hernandez",
+                "Timothy Johnson"
             ]
         }
     },
@@ -1465,16 +1370,16 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Дюна\"",
+            "year": 2021,
+            "pages": 707,
+            "isbn": "978-0-670-76647-5",
+            "rating": 0.21,
+            "price": 373.53,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Connor Marshall",
+                "Jill Garcia",
+                "Elizabeth Davis"
             ]
         }
     },
@@ -1482,16 +1387,16 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Дюна\"",
+            "year": 1651,
+            "pages": 93,
+            "isbn": "978-0-459-88094-1",
+            "rating": 1.76,
+            "price": 117.24,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Anna Delgado",
+                "James Harris",
+                "Caroline Olsen"
             ]
         }
     },
@@ -1499,16 +1404,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Дивный новый мир\"",
+            "year": 1969,
+            "pages": 844,
+            "isbn": "978-0-533-63443-9",
+            "rating": 2.89,
+            "price": 194.17,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Frank Cook",
+                "Jim Simon"
             ]
         }
     },
@@ -1516,16 +1420,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Штамм \"Андромеда\"\"",
+            "year": 1692,
+            "pages": 590,
+            "isbn": "978-1-06-313319-5",
+            "rating": 0.19,
+            "price": 524.71,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Thomas Mills"
             ]
         }
     },
@@ -1533,16 +1435,16 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Над пропастью во ржи\"",
+            "year": 1957,
+            "pages": 973,
+            "isbn": "978-0-374-91335-9",
+            "rating": 1.25,
+            "price": 519.62,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Lauren Guerrero",
+                "Anne Williams",
+                "Kathy Armstrong"
             ]
         }
     },
@@ -1550,16 +1452,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Дивный новый мир\"",
+            "year": 1856,
+            "pages": 934,
+            "isbn": "978-1-64555-054-9",
+            "rating": 2.18,
+            "price": 739.82,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Jennifer Paul",
+                "Edward Knapp"
             ]
         }
     },
@@ -1567,16 +1468,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Над пропастью во ржи\"",
+            "year": 1796,
+            "pages": 631,
+            "isbn": "978-1-83494-448-7",
+            "rating": 3.22,
+            "price": 130.85,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Alan Cooke"
             ]
         }
     },
@@ -1584,16 +1483,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Над пропастью во ржи\"",
+            "year": 1999,
+            "pages": 449,
+            "isbn": "978-0-237-60975-7",
+            "rating": 4.83,
+            "price": 330.28,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Brooke Blair",
+                "Mark Webster"
             ]
         }
     },
@@ -1601,16 +1499,15 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Штамм \"Андромеда\"\"",
+            "year": 1849,
+            "pages": 708,
+            "isbn": "978-0-9754705-8-9",
+            "rating": 2.34,
+            "price": 329.15,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Christine Simmons",
+                "Jonathan Spears"
             ]
         }
     },
@@ -1618,16 +1515,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Властелин колец\"",
+            "year": 1937,
+            "pages": 221,
+            "isbn": "978-0-00-805263-8",
+            "rating": 1.84,
+            "price": 562.63,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Caleb Espinoza"
             ]
         }
     },
@@ -1635,16 +1530,16 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Химера\"",
+            "year": 1658,
+            "pages": 11,
+            "isbn": "978-0-931999-35-2",
+            "rating": 1.74,
+            "price": 447.64,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Richard Conrad",
+                "Dale Wilson",
+                "Christopher Cox"
             ]
         }
     },
@@ -1652,16 +1547,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "title": "\"Химера\"",
+            "year": 1653,
+            "pages": 293,
+            "isbn": "978-1-67305-141-4",
+            "rating": 1.19,
+            "price": 386.52,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Michael Wolfe"
             ]
         }
     },
@@ -1670,15 +1563,13 @@
         "pk": 1,
         "fields": {
             "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
+            "year": 1978,
+            "pages": 351,
+            "isbn": "978-1-72924-103-5",
+            "rating": 1.47,
+            "price": 534.86,
             "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+                "Alan Kennedy"
             ]
         }
     },
@@ -1686,16 +1577,14 @@
         "model": "shop_final.book",
         "pk": 1,
         "fields": {
-            "title": "\"Груффало\"",
-            "year": 1673,
-            "pages": 887,
-            "isbn": "978-1-68873-380-0",
-            "rating": 4.39,
-            "price": 444.71,
-            "author": [
-                "Danielle Chandler",
-                "Larry Trevino",
-                "Debra Blair"
+            "title": "\"Над пропастью во ржи\"",
+            "year": 1768,
+            "pages": 308,
+            "isbn": "978-0-87455-698-8",
+            "rating": 3.05,
+            "price": 625.45,
+            "author": [
+                "Lance Rodriguez"
             ]
         }
     }
